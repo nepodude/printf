@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_hex - prints a decimal in hexadecimal
+ * print_hex - prints decimal in hexadecimal
  * @arguments: input string
  * @buf: buffer pointer
- * @ibuf: index for buffer pointer
+ * @ibuf: index for the buffer pointer
  * Return: number of chars printed
  */
 int print_hex(va_list arguments, char *buf, unsigned int ibuf)
